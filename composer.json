@@ -1,9 +1,13 @@
 {
-    "name": "twbs/bootstrap"
+    "name": "itlized/twbs"
   , "description": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development."
   , "keywords": ["bootstrap", "css"]
   , "homepage": "http://getbootstrap.com"
   , "authors": [
+      {
+        "name": "Michael Bui",
+        "email": "michael@itlized.com"
+      },
       {
         "name": "Mark Otto",
         "email": "markdotto@gmail.com"
@@ -14,7 +18,7 @@
       }
     ]
   , "support": {
-      "issues": "https://github.com/twbs/bootstrap/issues"
+      "issues": "https://github.com/ITLized/twbs/issues"
     }
   , "license": "Apache-2.0"
 }
